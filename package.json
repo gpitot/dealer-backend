@@ -20,7 +20,7 @@
     "@babel/preset-env": "^7.4.4",
     "@hapi/joi": "^16.1.8",
     "@hapi/joi-date": "^2.0.1",
-    "aws-sdk": "^2.514.0",
+    "aws-sdk": "^2.814.0",
     "bcrypt": "^3.0.7",
     "bigint-hash": "^0.2.2",
     "config": "^3.2.4",
